@@ -1,10 +1,11 @@
-### Olá, eu sou o Caíque Cardoso 👋
+## Olá, eu sou o Caíque Cardoso 👋
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caique.crd/)
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/caique.crd/)
 
 ![Caíque GitHub stats](https://github-readme-stats.vercel.app/api?username=CardosoCaique&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CardosoCaique&layout=compact)](https://github.com/CardosoCaique/github-readme-stats)
 
 ### Tecnologias que utilizo no meu dia 
 
