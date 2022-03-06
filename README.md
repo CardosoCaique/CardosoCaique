@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CardosoCaique&layout=compact)](https://github.com/CardosoCaique/github-readme-stats)
 
-### Tecnologias que utilizo no meu dia 
+### Tecnologias que trabalho
 
 <div style="display: inline_block">
   <br>
